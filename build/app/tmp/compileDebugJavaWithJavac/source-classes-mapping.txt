@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/cmarix/quiz/app/BuildConfig.java
+ com.cmarix.quiz.app.BuildConfig

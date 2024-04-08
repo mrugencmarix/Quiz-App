@@ -1,0 +1,4 @@
+#Mon Apr 08 16:41:44 IST 2024
+base.0=/Volumes/Data/Mrugen/Demo/Flutter/quiz_app_cmarix/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
